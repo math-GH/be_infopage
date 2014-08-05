@@ -15,4 +15,5 @@ Um die Informationen bearbeiten zu können muss in den Templates das Template "b
 Links
 =====
 Repository: https://contao.org/de/extension-list/view/be_infopage.html
+
 Forum: https://community.contao.org/de/showthread.php?34071-be_infopage-Backend-Informationsseite-%FCber-die-Webseite
